@@ -1,0 +1,5 @@
+{
+  "name": "foo",
+  "main": "./lib/foo",
+  "browser": "./lib/foo_browser"
+}
