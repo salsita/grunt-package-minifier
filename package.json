@@ -30,7 +30,8 @@
   },
   "dependencies" : {
     "required": "~0.3.1",
-    "async": "~0.2.9"
+    "async": "~0.2.9",
+    "underscore.string": "~2.3.3"
   },
   "devDependencies": {
     "grunt-contrib-jshint": "~0.1.1",
